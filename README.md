@@ -65,5 +65,9 @@ return 0;
 # OUTPUT:
 <img width="1017" height="573" alt="image" src="https://github.com/user-attachments/assets/de2bc6c7-4b79-41e7-b8d6-b3bb241c5e4f" />
 
+
+<img width="1047" height="631" alt="image" src="https://github.com/user-attachments/assets/72d749e3-96da-49a1-ba7b-c8782cedb91c" />
+
+
 # RESULT:
 ### The program to implement a symbol table is executed and the output is verified.
